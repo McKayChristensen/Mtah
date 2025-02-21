@@ -1,0 +1,7 @@
+Y = float(input("Enter a number for Y: "))
+
+# Calculate the expression
+result = (Y * 4) + (Y * 2) + (Y * 1) + 5
+
+# Show the result
+print(f"The result of (Y × 4) + (Y × 2) + (Y × 1) + 5 is: {result}")
